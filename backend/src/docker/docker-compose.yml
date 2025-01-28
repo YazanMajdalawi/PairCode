@@ -1,0 +1,11 @@
+services:
+  db:
+    image: mongo:latest
+    container_name: cp-db
+    ports:
+      - "27017:27017"
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: user
+      MONGO_INITDB_ROOT_PASSWORD: pass
+      MONGO_INITDB_DATABASE: cce
+    restart: always
