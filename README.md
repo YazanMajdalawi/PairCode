@@ -17,9 +17,9 @@ A collaborative, online, web-based code editor with real-time coding sessions am
 ---
 
 
-<img alt="Login Page" src="images/login.png" width="65%"/>
-<img alt="Register Page" src="images/register.png" width="65%"/>
-<img alt="Projects List Page" src="images/project_list.png" width="65%"/>
-<img alt="New Project Page" src="images/new_project.png" width="65%"/>
-<img alt="Workspace Page" src="images/workspace.png" width="65%"/>
-<img alt="Project Poster" src="images/PairCodePoster.png" width="65%"/>
+<img alt="Login Page" src="images/login.png" width="75%"/>
+<img alt="Register Page" src="images/register.png" width="75%"/>
+<img alt="Projects List Page" src="images/project_list.png" width="75%"/>
+<img alt="New Project Page" src="images/new_project.png" width="75%"/>
+<img alt="Workspace Page" src="images/workspace.png" width="75%"/>
+<img alt="Project Poster" src="images/PairCodePoster.png" width="75%"/>
